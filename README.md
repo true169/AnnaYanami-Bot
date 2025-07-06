@@ -52,7 +52,7 @@ global.namebot = "AnnaYanami"
 
 Letakkan plugin di dalam folder ./plugins
 
-Gunakan ekstensi .mjs
+Gunakan ekstensi .js
 
 Contoh struktur plugin:
 
@@ -72,7 +72,7 @@ export default handler
 📢 Grup Update & Support
 
 Bergabunglah di grup untuk update fitur, diskusi, atau laporan bug:
-📬 Gabung Grup WhatsApp
+Lihat Di main.js
 
 
 ---
