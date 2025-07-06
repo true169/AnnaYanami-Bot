@@ -32,6 +32,8 @@ npm install
 node index.js
 
 
+---
+
 🔧 Konfigurasi
 
 Edit file settings.js untuk menyesuaikan:
@@ -39,7 +41,11 @@ Edit file settings.js untuk menyesuaikan:
 global.owner = ["628xxx"] // nomor owner
 global.namebot = "AnnaYanami"
 
-Settings Lain Lihat Sendiri Saja
+> ⚙️ Pengaturan lainnya silakan cek langsung di file settings.js.
+
+
+
+
 ---
 
 🧩 Struktur Plugin
@@ -50,21 +56,23 @@ Gunakan ekstensi .mjs
 
 Contoh struktur plugin:
 
+
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Kode Anda
 }
-handler.help = ["Help"]
+handler.help = ["help"]
 handler.tags = ["tags menu"]
 handler.command = ["command"]
 
-export default handler;
+export default handler
+
 
 ---
 
 📢 Grup Update & Support
 
 Bergabunglah di grup untuk update fitur, diskusi, atau laporan bug:
-#[📬 Gabung Grup WhatsApp](https://chat.whatsapp.com/Kks7cdGIHcLEHVf4wDRVZH?mode=r_c)
+📬 Gabung Grup WhatsApp
 
 
 ---
@@ -73,7 +81,7 @@ Bergabunglah di grup untuk update fitur, diskusi, atau laporan bug:
 
 Fahrizal (Creator)
 📍 Indonesia
-💬 WhatsApp
+💬 WhatsApp (isi sendiri ya)
 
 
 
