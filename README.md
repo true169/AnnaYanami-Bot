@@ -20,7 +20,7 @@
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/Fahrizal/AnnaYanami-Bot
+git clone https://github.com/Fahrizal62/AnnaYanami-Bot
 cd AnnaYanami-Bot
 
 2. Instal Dependensi
