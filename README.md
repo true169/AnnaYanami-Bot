@@ -3,7 +3,7 @@
 > Bot WhatsApp Multi-Fungsi dengan Sistem Plugin Modern (ESM)  
 > Dibuat dengan ❤️ oleh Fahrizal
 
-![Anna Yanami](https://i.ibb.co/BTc6v6Z/annayanami.jpg)
+![Anna Yanami](https://files.catbox.moe/pzmgau.jpg)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/username/AnnaYanami-Bot
+git clone https://github.com/Fahrizal/AnnaYanami-Bot
 cd AnnaYanami-Bot
 
 2. Instal Dependensi
@@ -31,23 +31,15 @@ npm install
 
 node index.js
 
-> 🔑 Pastikan Anda sudah mendapatkan session credentials dari pairing code login.
-
-
-
-
----
 
 🔧 Konfigurasi
 
 Edit file settings.js untuk menyesuaikan:
 
 global.owner = ["628xxx"] // nomor owner
-global.botname = "AnnaYanami"
-global.sessionName = "session"
-global.autoread = true
+global.namebot = "AnnaYanami"
 
-
+Settings Lain Lihat Sendiri Saja
 ---
 
 🧩 Struktur Plugin
