@@ -64,7 +64,7 @@ export default handler;
 📢 Grup Update & Support
 
 Bergabunglah di grup untuk update fitur, diskusi, atau laporan bug:
-[📬 Gabung Grup WhatsApp](https://chat.whatsapp.com/Kks7cdGIHcLEHVf4wDRVZH?mode=r_c)
+#[📬 Gabung Grup WhatsApp](https://chat.whatsapp.com/Kks7cdGIHcLEHVf4wDRVZH?mode=r_c)
 
 
 ---
