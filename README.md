@@ -50,23 +50,21 @@ Gunakan ekstensi .mjs
 
 Contoh struktur plugin:
 
-
-// plugins/tools/ping.mjs
-export let help = ['ping']
-export let tags = ['tools']
-export let command = /^ping$/i
-
-export async function operate(m, { conn }) {
-  await conn.reply(m.chat, 'Pong!', m)
+let handler = async (m, { conn, text, usedPrefix, command }) => {
+  // Kode Anda
 }
+handler.help = ["Help"]
+handler.tags = ["tags menu"]
+handler.command = ["command"]
 
+export default handler;
 
 ---
 
 📢 Grup Update & Support
 
 Bergabunglah di grup untuk update fitur, diskusi, atau laporan bug:
-📬 Gabung Grup WhatsApp
+[📬 Gabung Grup WhatsApp](https://chat.whatsapp.com/Kks7cdGIHcLEHVf4wDRVZH?mode=r_c)
 
 
 ---
