@@ -89,3 +89,4 @@
     "ytdl-core": "git+ssh://git@github.com:khlevon/node-ytdl-core.git#v4.11.4-patch.2",
     "xfarr-api": "^1.0.3"
 }
+}
