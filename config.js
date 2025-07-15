@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 //*============== NOMOR ==============*\\
-global.nomorbot = '6281949448422' //Nomor Bot
-global.nomorown = '6287860644193' //Nomor Ownerlobal.namebot 
+global.nomorbot = '62857664507355' //Nomor Bot
+global.nomorown = '6285766450735' //Nomor Ownerlobal.namebot 
 global.nameown = 'Takashi' // Nama Owner
 
 //*============== Owner ==============*\\
 global.owner = [
-  ['6287860644193', 'Taka?', true],
+  ['6285766450735', 'Taka?', true],
   ]//Nomor owner 
 
 global.mods = ['', '']
